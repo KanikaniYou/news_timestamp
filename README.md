@@ -1,4 +1,4 @@
-scrape newssite's timetamp
+scrape newssite's timetamps
 ====
 
 ## Description
