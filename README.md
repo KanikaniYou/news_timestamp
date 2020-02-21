@@ -18,4 +18,4 @@ read test.py
 
 ## Author
 
-[tcnksm](https://github.com/KanikaniYou)
+[KanikaniYou](https://github.com/KanikaniYou)
